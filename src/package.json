@@ -1,0 +1,36 @@
+{
+    "name": "vscode-less-colors-gray-theme",
+    "displayName": "Visual Studio Code Less Colors Gray Theme",
+    "description": "A Visual Studio Code theme that uses a gray color scheme to minimize the prominence of text in code blocks and highlight tags, making it easier for users to organize their code with fewer colors.",
+    "version": "1.0.0",
+    "publisher": "metinyildirim55",
+    "icon": "images/icon.png",
+    "license": "MIT",
+	"main": "extension.js",
+	"activationEvents": ["onCommand:extension.deactivate"],
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": ["Themes"],
+    "bugs": {
+        "url": "https://github.com/metinyildirim55/vscode-less-colors-gray-theme/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/metinyildirim55/vscode-less-colors-gray-theme"
+    },
+    "galleryBanner": {
+        "color": "#101215",
+        "theme": "dark"
+    },
+    "keywords": ["theme", "gray", "code", "tags", "organize", "syntax", "minimal", "dark", "readability"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Less Colors Gray Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme1.json"
+            }
+        ]
+    }
+}

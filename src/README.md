@@ -18,4 +18,4 @@ Contributions are always welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/metinyildirim55/metinyildirim55/main/licences/MIT_LICENSE.md) file for details.
